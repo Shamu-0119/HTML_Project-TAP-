@@ -1,0 +1,1 @@
+This is a html project of an education institute which has been designed using HTML only. Here, I have used some important tags like image tag, form tag, preformatted tag, link tags and many more. This is basic project for beginning a career in web development and this project can be improved by using CSS and other technologies. 
